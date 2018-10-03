@@ -9,3 +9,4 @@ cache:
 
 before_script: npm install
 script: npm run eslint
+webhook: https://www.travisbuddy.com/
