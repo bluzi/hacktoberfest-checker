@@ -3,7 +3,7 @@
 const _ = require('lodash');
 const moment = require('moment');
 
-const prAmount = 5;
+var prAmount = 5;
 
 const statements = [
     'It\'s not too late to start!',
